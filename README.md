@@ -16,13 +16,13 @@ If you want to start our application, please run the main file named "Cinema.jav
   -Password: admin
   -This authentication helps detect which staff member is receiving the order and money or making the booking, ensuring we can identify any abnormal activity and ensure system safety, accessible only to staff members. 
    Currently, we are testing with the admin account in this project.
- ##Step2 Picking Seat
+ <Step2> Picking Seat
   •	Our application can run a .jar file on multiple computers in a workstation(cinema) at the same time.
   •	Staffs can select more than one seat on each computer.
   •	If a seat has been selected, other computers used by other staff cannot select it because it is pending. If they try to pick that seat, a dialog message box will show, stating "Seat is busy."
   •	However, other computers are still allowed to select seats that are different from the pending seat. Logically, if the first computer has selected a seat, there is no need for the second computer to wait for the first computer to end the process. We have already addressed this issue.
   •	After finishing picking the seat, click on "Order" to continue.
-##Step3 Payment
+ <Step3> Payment
   •	Staff will see a pop-up of the total payment in a text field.
   •	Staff can pick different discount
   •	The discount price will be automatically calculated based on the different percentages and total amounts. It will then show the total price the customer should pay. This helps prevent confusion between staff and customers.
@@ -34,7 +34,7 @@ If you want to start our application, please run the main file named "Cinema.jav
  o	When a seat is being selected, its color will change to green, and a tick mark will appear in the middle of the seat icon to indicate that it is being picked.
  o	When a seat is sold out, its color will change to gray.
 After a successful order, the seat will become unavailable. It will be updated to show as gray on both the current and other computers to prevent staff from attempting to select seats that have already been sold out unknowingly.
-##Step4 Receipt
+ <Step4> Receipt
  •	After successfully booking the seat, staff will print the receipt on paper for the customer. Currently, due to the lack of a printer, it will only be possible to print it as a PDF file.
  •	In the receipt it will show:
  •	Include the logo on the report.
@@ -42,7 +42,7 @@ After a successful order, the seat will become unavailable. It will be updated t
  •	The date and time when the receipt was created.
  •	details: It will show the seat number that was purchased and each price.
  •	Payment details: It will display the total price, the discount percentage and amount, the amount the customer should pay, the amount received, and the change due (if applicable).
-##Step5 Booking
+ <Step5> Booking
 •	User can also book ticket by booking button which they need to input their phone number. They need to pick a seat then book it with their phone number.
 •	After that, users can check in for their booked ticket by clicking on the "Check In" button. They just need to enter their phone number to verify their booking.
 •	If the phone number has a booking in our system, it will be displayed on the screen.
