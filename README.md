@@ -49,8 +49,6 @@ If you want to start our application, please run the main file named "Cinema.jav
 
 ### Step 5: Booking
 - Users can also book tickets by clicking the booking button, where they need to input their phone number. They can then pick a seat and book it with their phone number.
-- After that, users can check in for their booked ticket by clicking on the "Check In" button. They just need to enter their phone number to verify their booking.
-
-•	After that, users can check in for their booked ticket by clicking on the "Check In" button. They just need to enter their phone number to verify their booking.
-•	If the phone number has a booking in our system, it will be displayed on the screen.
-•	The seat will change color to siliver to noted as the seat has been booking
+-	After that, users can check in for their booked ticket by clicking on the "Check In" button. They just need to enter their phone number to verify their booking.
+-	If the phone number has a booking in our system, it will be displayed on the screen.
+-	The seat will change color to siliver to noted as the seat has been booking
