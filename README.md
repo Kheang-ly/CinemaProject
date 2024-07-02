@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"# java_legendCinemaY3S2" 
-"# CinemaProject" 
-=======
->>>>>>> 39282505fa25e4ae644b1f1b88a9ce8208a45d4c
+
 # java_legendCinemaY3S2
 # CinemaProject
 
