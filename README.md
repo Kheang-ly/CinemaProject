@@ -15,7 +15,7 @@ This project system has been created solely for staff use in selling tickets. Im
 If you want to start our application, please run the main file named "Cinema.java".
 
 ### Step 1: Authentication
-- Email: admin
+- Username: admin
 - Password: admin
 - This authentication helps detect which staff member is receiving the order and money or making the booking, ensuring we can identify any abnormal activity and ensure system safety, accessible only to staff members. Currently, we are testing with the admin account in this project.
 
